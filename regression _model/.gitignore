@@ -1,0 +1,12 @@
+# Virtual environment
+C_Model/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System / executables
+*.exe
+
+# Environment files
+.env
